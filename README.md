@@ -1,1 +1,1 @@
-# openship
+This is an open source alternative to Midship.
